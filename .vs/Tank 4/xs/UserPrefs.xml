@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{E6354BC5-E833-0E20-EF9C-5B0A3F4D7B64}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Health.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Missile.cs" Line="21" Column="50" />
+      <File FileName="Assets/Scripts/Wander.cs" Line="25" Column="1" />
+      <File FileName="Assets/Scripts/MissileExplosion.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/rotationSpeed.cs" Line="1" Column="1" />
+      <File FileName="Assets/Health.cs" Line="8" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tank 4" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True" />
+              <Node name="Health.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4f63b9be-4190-456e-881b-6621af15a35b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
