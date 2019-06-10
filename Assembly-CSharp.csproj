@@ -60,12 +60,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\GameManager\GameManager.cs" />
     <Compile Include="Assets\Health.cs" />
+    <Compile Include="Assets\Scripts\EnemyMissile.cs" />
+    <Compile Include="Assets\Scripts\EnemyMovement.cs" />
     <Compile Include="Assets\Scripts\Missile.cs" />
     <Compile Include="Assets\Scripts\MissileExplosion.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
-    <Compile Include="Assets\Scripts\rotationSpeed.cs" />
-    <Compile Include="Assets\Scripts\Wander.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>/Users/jasmineclark/Documents/Tank4/Tank 4/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
