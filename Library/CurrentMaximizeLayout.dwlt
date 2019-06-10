@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 474}
   m_MaxSize: {x: 14002, y: 14024}
   vertical: 0
-  controlID: 46132
+  controlID: 48580
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -129,7 +129,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 474}
   m_MaxSize: {x: 10000, y: 14024}
   vertical: 1
-  controlID: 46133
+  controlID: 48581
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -154,7 +154,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 224}
   m_MaxSize: {x: 8006, y: 4024}
   vertical: 0
-  controlID: 46134
+  controlID: 48535
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -212,7 +212,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 7268feff7e68feffae75feff3489feff0494feff8494feff1c97feff6897feff2098feff669dfeffa2b4feffacb4feff16b5feffd6fbffff2e6200004a620000
+      m_ExpandedIDs: 6425feff5c31feff8031feffd831feff9832feff7268feff7e68feffae75feff3489feff0494feff8494feff1c97feff6897feff2098feff669dfeffa2b4feffacb4feff16b5feffd6fbffff2e6200004a620000f47c0000387d0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -388,8 +388,8 @@ MonoBehaviour:
     y: 443
     width: 1163
     height: 274
-  m_MinSize: {x: 232, y: 274}
-  m_MaxSize: {x: 10002, y: 10024}
+  m_MinSize: {x: 230, y: 250}
+  m_MaxSize: {x: 10000, y: 10000}
   m_ActualView: {fileID: 11}
   m_Panes:
   - {fileID: 11}
@@ -435,19 +435,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Sounds
+    - Assets/Textures
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Sounds
+  - Assets/Textures
   m_LastFoldersGridSize: -1
   m_LastProjectPath: /Users/jasmineclark/Documents/Tank4/Tank 4
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 39}
-    m_SelectedIDs: 380a0000
-    m_LastClickedID: 2616
+    m_SelectedIDs: 2c0b0000
+    m_LastClickedID: 2860
     m_ExpandedIDs: 000000006c090000762a0000782a0000a669000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -501,8 +501,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: b675feff
-    m_LastClickedInstanceID: -100938
+    m_SelectedInstanceIDs: 387d0000
+    m_LastClickedInstanceID: 32056
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000d028000000000000
     m_RenameOverlay:
