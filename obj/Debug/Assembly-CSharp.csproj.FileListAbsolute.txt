@@ -356,3 +356,11 @@
 /Users/jasmineclark/Documents/Tank4/Tank 4/obj/Debug/Assembly-CSharp.csproj.CopyComplete
 /Users/jasmineclark/Documents/Tank4/Tank 4/obj/Debug/Assembly-CSharp.dll
 /Users/jasmineclark/Documents/Tank4/Tank 4/obj/Debug/Assembly-CSharp.pdb
+/Users/jasmineclark/Documents/Tank4/Tank 4/Temp/bin/Debug/Boo.Lang.dll
+/Users/jasmineclark/Documents/Tank4/Tank 4/Temp/bin/Debug/UnityEditor.UI.dll
+/Users/jasmineclark/Documents/Tank4/Tank 4/Temp/bin/Debug/NavMeshComponentsExamplesEditor.pdb
+/Users/jasmineclark/Documents/Tank4/Tank 4/Temp/bin/Debug/NavMeshComponentsEditor.pdb
+/Users/jasmineclark/Documents/Tank4/Tank 4/Temp/bin/Debug/NavMeshComponents.pdb
+/Users/jasmineclark/Documents/Tank4/Tank 4/Temp/bin/Debug/NavMeshComponentsExamples.pdb
+/Users/jasmineclark/Documents/Tank4/Tank 4/Temp/bin/Debug/UnityEditor.UI.dll.mdb
+/Users/jasmineclark/Documents/Tank4/Tank 4/Temp/bin/Debug/UnityEditor.UI.xml
