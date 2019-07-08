@@ -20,7 +20,7 @@ public class EnemyFollow : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        gameObject.GetComponent<NavMeshAgent>().SetDestination(ThePlayer.transform.position);
+        _ = gameObject.GetComponent<NavMeshAgent>().SetDestination(ThePlayer.transform.position);
 
     }
 }
